@@ -1,0 +1,17 @@
+{
+  "name": "faker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "faker": "node seedDB.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "faker": "^5.5.3",
+    "mongodb": "^4.2.2"
+  }
+}
